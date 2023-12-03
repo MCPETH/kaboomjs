@@ -16,5 +16,5 @@ Player Character: Explore the creation of a player character with movement contr
 Platform Design: Learn how to add platforms to the game world, creating an environment for the player to navigate.
 
 ## Additional Resources
-Visit the https://Kaboom.js Documentation for comprehensive information on the library's features and capabilities.
+Visit the https://kaboomjs.com Documentation for comprehensive information on the library's features and capabilities.
 Engage with the Kaboom.js community for support, discussions, and sharing your game development journey.
